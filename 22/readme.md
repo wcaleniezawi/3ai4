@@ -12,7 +12,7 @@
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 ## Abstract 
-The project concerns a system that allows adding and searching for objects in an online museum.
+The project concerns a system that allows searching for objects in an online museum.
 
 ## Data structure
 
