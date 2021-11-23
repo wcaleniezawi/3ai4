@@ -57,6 +57,6 @@ Dillinger uses a number of open source projects to work properly:
 - [CSS/HTML]
 - [SQL]
 - [MySql/MariaDb]
-- [Apache]
+- [Apache] 
 
  [erd]: <https://github.com/Michal3456/example_project/blob/main/sprites/Untitled%20Diagram.jpg>
