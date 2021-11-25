@@ -4,11 +4,11 @@
 ## _principal: Michał Czerwiński_
 
 
-| dossier version | date |
-| ------ | ------ |
-| 1.0 | 21.11.2021 |
+| dossier version | date | description |
+| ------ | ------ | ------ |
+| 1.0 | 17.11.2021 | none |
 | 1.1 | 25.11.2021 | adding ERD |
-| 1.2	| 25.11.2021	| adding organizational structure |
+| 1.2 | 25.11.2021 | adding organizational structure |
   
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
