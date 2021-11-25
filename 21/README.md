@@ -11,14 +11,14 @@
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 ## Abstract 
-The project concerns a system that allows you to track your package online.
+The project concerns a system that allows you to show current location of selected cars.
 
 ## Data structure
 
 | data | type |
 | ------ | ------ |
-| INPUT | data form |
-| OUTPUT | current location of your package |
+| INPUT | car name |
+| OUTPUT | current location of selected car |
 
 ## Main functionalities
 
@@ -43,7 +43,7 @@ A subsection that presents a detailed description of the individual functionalit
 
 ### Relational database based on SQL language
 
-### Frot-end created in JavaScript and CSS technologies
+### Front-end created in JavaScript and CSS technologies
 
 ### Back-end executed in PHP language and auxiliary scripts
 
