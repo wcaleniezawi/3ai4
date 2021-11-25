@@ -20,7 +20,7 @@ The project concerns a system that allows for display pictures from events.
 | data | type |
 | ------ | ------ |
 | INPUT | data form |
-| OUTPUT | room reservation message and database entry |
+| OUTPUT | pictures from event |
 
 ## Main functionalities
 
