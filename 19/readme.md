@@ -37,7 +37,7 @@ The above functionalities are tested and work according to their roles.
 
 ## Entity Relationship Diagram
 
-[link to diagram in jpg][erd]
+[link to diagram in jpg][png]
 
 ## Cpecific functionalities
 
@@ -60,4 +60,4 @@ Dillinger uses a number of open source projects to work properly:
 - [MySql/MariaDb]
 - [Apache]
 
- [erd]: <https://github.com/Michal3456/example_project/blob/main/sprites/Untitled%20Diagram.jpg>
+ [png]: <https://github.com/Michal3456/3ai4/blob/main/19/diagram1.drawio.png>
