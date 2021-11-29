@@ -18,7 +18,7 @@ The main idea for this project is to create a simulation of the localization the
 > I am personally responsible for its operation: Oskar Zawieracz.
 
 ## Entity Relationship Diagram
-[link to diagram in jpg][erd]
+[Link to diagram](https://github.com/Michal3456/3ai4/blob/main/23/readme.md).
 
 ## Programing languages:
 - PHP
