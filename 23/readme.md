@@ -1,7 +1,7 @@
 # Localization of military equipment
 
 ## Contractor: Oskar Zawieracz
-## Pryncypał: Michał Czerwiński
+## Principal: Michał Czerwiński
 
 ## Abstract
 The main idea for this project is to create a simulation of the localization the military equipment.
