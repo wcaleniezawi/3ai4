@@ -20,6 +20,12 @@ The main idea for this project is to create a simulation of the localization the
 ## Entity Relationship Diagram
 [Link to diagram](https://github.com/Michal3456/3ai4/blob/main/23/Diagram%20ERD.jpg).
 
+## Example of an empty wireframe of the main form on a subpage
+[Wireframe empty](https://github.com/wcaleniezawi/3ai4/blob/main/23/sprites/wireframe%20empty.PNG).
+
+## Wireframe the main form on the application subpage
+[Wireframe the main form](https://github.com/wcaleniezawi/3ai4/blob/main/23/sprites/wireframe.PNG).
+
 ## Programing languages:
 - PHP
 - JS
