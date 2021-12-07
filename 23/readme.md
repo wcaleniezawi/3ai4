@@ -3,8 +3,23 @@
 ## Contractor: Oskar Zawieracz
 ## Principal: Michał Czerwiński
 
+| dossier version | date |
+| ------ | ------ | ------ |
+| 1.0 | 17.11.2021 | 
+| 1.1 | 25.11.2021 | 
+| 1.2 | 07.12.2021 | 
+
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+
 ## Abstract
 The main idea for this project is to create a simulation of the localization the military equipment.
+
+## Data structure
+
+| data | type |
+| ------ | ------ |
+| INPUT | data form |
+| OUTPUT | the localization of military equipment |
 
 ## Main functionalities
 1. Choosing a vechicle, what we want to follow.
